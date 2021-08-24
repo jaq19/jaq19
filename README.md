@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as a Data Analyst, Data Administrator, Web Developer, Game Design
 - 🌱 I’m currently learning C, C++, Java, Python, HTML5
 - 💞️ I’m looking to collaborate on any programimg projects 
-- 📫 How to reach me at jquint31@my.smccd.edu
+- 📫 How to reach me at jquinteros@mail.sfsu.edu
 
 <!---
 jaq19/jaq19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
