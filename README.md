@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaq19
+- 👋 Hi, I’m @Andres
 - 👀 I’m interested in working as a Data Analyst, Data Administrator, Web Developer, Game Design
 - 🌱 I’m currently learning C, C++, Java, Python, HTML5
 - 💞️ I’m looking to collaborate on any programimg projects 
